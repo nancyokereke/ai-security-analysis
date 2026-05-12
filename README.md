@@ -1,7 +1,7 @@
 # Prompt Injection Threat Analysis — Cova Funds
 
 **Analyst:** Nancy Okereke | Cybersecurity Analyst  
-**Date:** February 2026  
+**Date:** May 2026  
 **Category:** AI Security | Threat Analysis  
 **Testing Environment:** Gandalf by Lakera
 
